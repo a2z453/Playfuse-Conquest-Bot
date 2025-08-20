@@ -125,4 +125,4 @@ To get Discord IDs:
 - **Check map server**: If you’re not using `map.playfuse.org`, ask your server admin for the correct `BASE_URL` and `WORLD`.
 
 ## Need Help?
-If something’s not working, double-check your `.env` and `config.json`. Open an issue on the [GitHub repo](https://github.com/a2z453/Playfuse-Conquest-Bot) or DM [a2z45](discord.com/users/508772310233382932) On Discord!
+If something’s not working, double-check your `.env` and `config.json`. Open an issue on the [GitHub repo](https://github.com/a2z453/Playfuse-Conquest-Bot) or DM [a2z45](https://discord.com/users/508772310233382932) On Discord!
