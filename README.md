@@ -23,6 +23,7 @@ Download The Latest [Realese](https://github.com/a2z453/Playfuse-Conquest-Bot/re
 ### 2. Unzip The File and Edit The Config.json File
 Edit the following values in the config.json file
 `GUILD_NAME`, `ROLE_TO_PING`, `GUILD_MEMBERS`, `ALERT_CHANNEL`
+
 `PLAYER_CHECK_INTERVAL` and `MARKER_CHECK_INTERVAL` Can be edited but I recomend No Lower then 3
 Leave the other values alone or else it will break the bot
 
