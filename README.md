@@ -9,6 +9,12 @@ This Discord bot monitors your Minecraft guild's plots and sends alerts to a Dis
 - Ignores your guild members to avoid spamming you.
 - Saves plot data in `guild_plots.json` for tracking.
 
+## License
+This bot is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). You **must**:
+- Credit **a2z453** (GitHub: [a2z453](https://github.com/a2z453)) as the original author.
+- Use the bot only for **non-commercial purposes** (no selling or using in paid services).
+- Use the code **as-is** (no modifications without written permission from a2z453).
+
 ## Prerequisites
 - **Python 3.8+**: Download from [python.org](https://www.python.org/downloads/). Check with `python --version`.
 - **Discord Bot Token**: Get one from the [Discord Developer Portal](https://discord.com/developers/applications).
