@@ -1,0 +1,14 @@
+{
+  "GUILD_NAME": "MyAwesomeGuild",
+  "ROLE_TO_PING": 123456789012345678,
+  "GUILD_MEMBERS": [
+    "Member1",
+    "Member2",
+    "Mmeber3"
+  ],
+  "ALERT_CHANNEL": 123456789012345678,
+  "WORLD": "minecraft_custom_overworld",
+  "BASE_URL": "https://map.playfuse.org/tiles",
+  "PLAYER_CHECK_INTERVAL": 5,
+  "MARKER_CHECK_INTERVAL": 5
+}
