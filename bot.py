@@ -1,3 +1,9 @@
+# Copyright (c) 2025 a2z453
+# This code is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+# You may not: claim this code as your own, modify it without permission to alter the way it operates, or use it for commercial purposes.
+# See LICENSE file or https://creativecommons.org/licenses/by-nc-nd/4.0/ for details.
+# Contact a2z453 (via GitHub: https://github.com/a2z453) for permission requests.
+
 import discord
 import aiohttp
 import asyncio
