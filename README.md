@@ -1,4 +1,4 @@
-# Minecraft Guild Plot Monitor Bot
+# Playfuse Guild Plot Monitor Bot
 
 This Discord bot watches your Minecraft guild's plots and sends alerts to a Discord channel when a non-guild player enters them. It’s designed to work with a map server like `map.playfuse.org` and is easy to set up for your own guild. Just edit a config file, and you’re good to go!
 
@@ -21,9 +21,15 @@ This Discord bot watches your Minecraft guild's plots and sends alerts to a Disc
 Download The Latest [Realese](https://github.com/a2z453/Playfuse-Conquest-Bot/releases/)
 
 ### 2. Unzip The File and Edit The Config.json File
-Edit the following values in the config.json file
-`GUILD_NAME`, `ROLE_TO_PING`, `GUILD_MEMBERS`, `ALERT_CHANNEL`
+Edit the following values in the config.json file:
+
+- `GUILD_NAME`
+- `ROLE_TO_PING`
+- `GUILD_MEMBERS`
+- `ALERT_CHANNEL`
 
 `PLAYER_CHECK_INTERVAL` and `MARKER_CHECK_INTERVAL` Can be edited but I recomend No Lower then 3
-Leave the other values alone or else it will break the bot
+Leave the other values alone or else it will break the bot.
 
+### 3. Edit the .env file
+Open the .env file and put your Discord Bot Token where it says `YOUR_DISCORD_BOT_TOKEN` make sure to keep the " " around your bot token.
